@@ -1,0 +1,5 @@
+I created a CSV file containing the KenPom rankings for each men's Division I basketball team from 2002 to 2003. KenPom is a predictive rating system that aims "to show how strong a team would be if it played tonight, independent of injuries or emotional factors. Since nobody can watch every team play all (or even most) of their games, this system is designed to provide a snapshot of a team's current level of play."
+For those interested in how KenPom rnaks teams and the statistics, go here (https://kenpom.com/)
+Next, I created a CSV file containing information about each NCAA tournament game played from 2002 to 2022. This was particularly challenging, as I could not find a simple dataset that already had this information. I had to format the data using a copy and pasted bracket from Wikipedia for each year.
+I then merged the data together, where for each game I had each team's KenPom stats from that year.
+If anyone is interested in the dataset I have attached it to this repository. 
